@@ -1,2 +1,2 @@
 # chester
-chester is a c++ high-performance game server
+chester is a c++ high-performance game server.
